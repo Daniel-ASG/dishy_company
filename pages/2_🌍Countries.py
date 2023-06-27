@@ -327,6 +327,3 @@ with st.container():
                 unsafe_allow_html=True)
     fig = sunburst_plot(df)
     st.plotly_chart(fig, use_container_width=True)
-    
-    
-st.dataframe(df)
