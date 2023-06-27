@@ -50,7 +50,7 @@ The strategy dashboard was developed using the metrics that reflect the main bus
 
 # 5. the final product of the project
 Online dashboard, hosted in a Cloud and available for access from any internet connected device.
-To access the final result, please go to the [Streamlit dashboard link](https://daniel-asg-dishy-company.streamlit.app/Restaurants).
+To access the final result, please go to the [Streamlit dashboard link](https://daniel-asg-dishy-company.streamlit.app/).
 
 # 6. Conclusion
 The goal of this project was to create a set of charts and/or tables that display these metrics in the best possible way for the CEO.
