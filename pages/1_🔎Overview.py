@@ -252,8 +252,8 @@ price_options = st.sidebar.multiselect('Select the price type:',
 
 st.sidebar.markdown('''___''')
 rating_options = st.sidebar.slider('Select a range of ratings:',
-                                   float(min_value), float(max_value), 
-                                   (float(start_value), float(end_value))
+                                   float(df.aggregate_rating.min()), float(df.aggregate_rating.max()), 
+                                   (float(df.aggregate_rating.min()), float(df.aggregate_rating.max()))
                                    )
 
 st.sidebar.markdown('''___''')
