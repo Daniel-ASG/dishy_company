@@ -57,7 +57,7 @@ The goal of this project was to create a set of charts and/or tables that displa
 Since many regions are still unserved, there is great potential for growth of the platform in the coming years.
 
 # 7. next steps
-1. Detail some analysis regarding kitchen types.
+1. Detail some analysis regarding cuisines types.
 2. Deepen the analyses regarding the evaluations provided.
 3. Create new filters.
 4. Add new business views.
