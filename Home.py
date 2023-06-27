@@ -48,6 +48,6 @@ st.markdown(
     ### Ask for help
     - Data Science Team on Discord
         - @daniel_asg
-    - For more information, please visit the [project page on GitHub](). Thanks for your visit.
+    - For more information, please visit the [project page on GitHub](https://github.com/Daniel-ASG/dishy_company/tree/main). Thanks for your visit.
     
     ''')
