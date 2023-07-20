@@ -48,7 +48,7 @@ The strategy dashboard was developed using the metrics that reflect the main bus
 3. The market in the American continent has potential but is still very little explored.
 4. Knowing what kind of cuisine is preferred by users in each country and city will help improve Dishy's growth strategies.
 
-# 5. the final product of the project
+# 5. The final product of the project
 Online dashboard, hosted in a Cloud and available for access from any internet connected device.
 To access the final result, please go to the [Streamlit dashboard link](https://daniel-asg-dishy-company.streamlit.app/).
 
