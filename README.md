@@ -42,7 +42,7 @@ The goal of this project is to create a set of charts and/or tables that display
 # 3. Solution Strategy
 The strategy dashboard was developed using the metrics that reflect the main business model views of the company.
 
-# 4. Top 3 Data Insights
+# 4. Top 4 Data Insights
 1. The big market is in India, with almost 45% of the number of restaurants.
 2. Restaurants that receive many reviews will often have a higher rating. It is worth investing in requesting that customers rate the service.
 3. The market in the American continent has potential but is still very little explored.
