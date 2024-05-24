@@ -78,13 +78,13 @@ Ultimately, this project serves as an example of the potential of data analytics
 To access the final result, please go to the [Streamlit dashboard link](https://daniel-asg-dishy-company.streamlit.app/).
 
 # 6. Conclusion
-In conclusion, our analysis has revealed that Dishy is well positioned to dominate the online restaurant market. With over 6930 restaurants on its platform, operating in 15 countries and 125 cities, Dishy has already established a significant presence in the global market.
+The aim of this project was to create an app that presents insights effectively and intuitively for Dishy's CEO. Through the strategic use of technology and data analysis, it was possible to identify lucrative business opportunities in the restaurant market.
 
 However, Dishy's true potential lies in its ability to adapt and grow. Our analysis has shown substantial expansion opportunities, particularly in the American continent, which remains relatively untapped. Furthermore, understanding users' culinary preferences can be a powerful strategy for driving growth. For instance, if we knew that Italian cuisine is particularly popular in a specific city, Dishy could focus on attracting more Italian restaurants to that area.
 
 Additionally, Dishy has demonstrated an impressive commitment to quality. With an average rating of **4.127** across all reviews, it's evident that users value the experience Dishy provides. This is further exemplified when we look at individual restaurants - for example, our top-rated restaurant, **_Byg Brewski Brewing Company_**, boasts an impressive rating of **4.90** and **17394** reviews.
 
-Finally, Dishy has proven to be a profitable platform for both restaurants and users. With an average cost of **US$29.59** per meal for two, restaurants on the Dishy platform are generating significant revenue.
+Furthermore, Dishy has proven to be a profitable platform for both restaurants and users. With an average cost of **US$29.59** per meal for two, restaurants on the Dishy platform are generating significant revenue.
 
 In summary, Dishy is more than just a restaurant platform - it's a revolution in how we interact with food. With its combination of global reach, commitment to quality, and growth potential, we believe Dishy is perfectly positioned to lead this revolution. We look forward to seeing what the future holds for Dishy.
 
