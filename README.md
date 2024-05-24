@@ -67,15 +67,11 @@ The strategy dashboard was developed using the metrics that reflect the main bus
     - In conclusion, using user preferences for cuisines in its growth tactics helps Dishy cater to local tastes, increase user engagement, and stay competitive in a changing market.
 
 # 5. The final product of the project
-The aim of this project was to create an App that presents insights in an effective and intuitive way for the CEO. Through the strategic use of technology and data analysis, it was possible to identify lucrative business opportunities in the King County real estate market.
+The final product of this project is a comprehensive app designed to provide valuable insights and strategic guidance for Dishy, a prominent player in the restaurant industry. Unlike traditional platforms, this app goes beyond merely offering an overview of the market; it delves deep into the intricate factors that influence restaurant performance and customer preferences. By leveraging advanced data analytics and cutting-edge technology, Dishy can now make well-informed decisions, optimize its operations, and ultimately enhance its profitability.
 
-The app not only provides an overview of the market, but also offers insights into factors that influence real estate prices. This allows House Rocket to make informed decisions and maximize its profits.
+Furthermore, this app exemplifies the transformative potential of data analysis and technology within the restaurant sector. It showcases how Dishy is embracing innovation to redefine the way people discover, experience, and engage with restaurants worldwide. By harnessing the power of data-driven insights, Dishy is poised to lead the charge in revolutionizing the restaurant industry, setting new standards for efficiency, customer satisfaction, and business growth.
 
-In addition, the app demonstrates the power of data analysis and technology in transforming the real estate sector. It highlights how House Rocket is at the forefront of this transformation, using technology to improve the way we buy and sell real estate.
-
-Ultimately, this project serves as an example of the potential of data analytics in generating actionable insights and driving business success.
-
-To access the final result, please go to the [Streamlit dashboard link](https://daniel-asg-dishy-company.streamlit.app/).
+In essence, this project serves as a testament to the invaluable role of data analytics in driving business success and fostering innovation. It underscores Dishy's commitment to excellence and its dedication to staying ahead of the curve in a rapidly evolving market landscape. To explore the full capabilities of the app, please visit the [Streamlit dashboard link](https://daniel-asg-dishy-company.streamlit.app/) provided.
 
 # 6. Conclusion
 The aim of this project was to create an app that presents insights effectively and intuitively for Dishy's CEO. Through the strategic use of technology and data analysis, it was possible to identify lucrative business opportunities in the restaurant market.
